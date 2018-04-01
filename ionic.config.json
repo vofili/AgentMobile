@@ -1,6 +1,6 @@
 {
   "name": "AgentMobile",
-  "app_id": "",
+  "app_id": "612d8749",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
